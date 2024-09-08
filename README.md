@@ -1,6 +1,6 @@
 ## DitaPetz: O Paraíso dos Patudinhos 
 
-**Um projeto feito com muito amor para ajudar a encontrar lares para os nossos amigos de quatro patas.**
+**Um projeto feito com muito amor durante a Imersão Dev com [Google Gemini](https://gemini.google.com/app) da [Alura](https://www.alura.com.br/).**
 
 ### Sobre o Projeto
 
