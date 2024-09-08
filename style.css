@@ -129,29 +129,23 @@ footer {
     background-color: #E9E6D5;
 }
 
-/* Styles for screens wider than 768px (tablets and desktops) */
 @media (min-width: 768px) {
     .container {
-        max-width: 70rem;
-        /* Increase container width for larger screens */
+        max-width: 70rem;        
     }
 
     .search input {
-        width: 40rem;
-        /* Increase input width for larger screens */
+        width: 40rem;        
     }       
 }
 
-/* Styles for screens smaller than 768px (phones) */
 @media (max-width: 768px) {
     .container {
-        max-width: 100%;
-        /* Set container to full width for smaller screens */
+        max-width: 100%;        
     }
 
     header img {
-        width: 6rem;
-        /* Decrease image width for smaller screens */
+        width: 6rem;        
     }
 
     main {
@@ -159,14 +153,12 @@ footer {
     }
 
     .search {
-        flex-direction: column;
-        /* Stack search elements vertically */
+        flex-direction: column;        
     }
 
     .search input,
     .search button {
-        width: 100%;
-        /* Set input and button to full width */
+        width: 100%;        
     }   
     
     .result-item {
