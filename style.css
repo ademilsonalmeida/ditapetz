@@ -154,6 +154,10 @@ footer {
         /* Decrease image width for smaller screens */
     }
 
+    main {
+        width: 100%;
+    }
+
     .search {
         flex-direction: column;
         /* Stack search elements vertically */
