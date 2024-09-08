@@ -45,6 +45,7 @@ header p {
     padding: 1rem;
     font-weight: 300;
     font-style: normal;
+    text-align: justify;
 }
 
 main section {
